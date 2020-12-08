@@ -5,6 +5,8 @@ This project born with the aim to show how deploy a service using Spring Cloud K
 This is a simple application thas uses  a mongodb and a secret object from kubernetes. This service
 is going to show us some properties from ConfigMap.
 
+
+You can find this article on https://refactorizando.com/externalizar-configuracion-spring-boot-kubernetes-configmap/
 ## How can I run it?
 
 First off is necesary a distribution of kubernetes such as minikube, google cloud kubernetes ... and have installed
