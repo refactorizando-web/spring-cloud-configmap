@@ -7,8 +7,10 @@ is going to show us some properties from ConfigMap.
 
 
 You can find this article on :
-*  [Spanish]: https://refactorizando.com/externalizar-configuracion-spring-boot-kubernetes-configmap/
-*  [English]: https://refactorizando.com/en/externalize-spring-boot-config-to-configmap/
+* [Spanish]: https://refactorizando.com/externalizar-configuracion-spring-boot-kubernetes-configmap/
+* [English]: https://refactorizando.com/en/externalize-spring-boot-config-to-configmap/
+
+
 ## How can I run it?
 
 First off is necesary a distribution of kubernetes such as minikube, google cloud kubernetes ... and have installed
